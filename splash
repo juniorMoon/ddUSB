@@ -1,0 +1,23 @@
+ _ .-') _  _ .-') _                       .-')  .-. .-')
+( (  OO) )( (  OO) )                     ( OO ).\  ( OO )
+ \     .'_ \     .'_        ,--. ,--.   (_)---\_);-----.\
+ ,`'--..._),`'--..._)       |  | |  |   /    _ | | .-.  |
+ |  |  \  '|  |  \  '       |  | | .-') \  :` `. | '-' /_)
+ |  |   ' ||  |   ' |       |  |_|( OO ) '..`''.)| .-. `.
+ |  |   / :|  |   / :       |  | | `-' /.-._)   \| |  \  |
+ |  '--'  /|  '--'  /      ('  '-'(_.-' \       /| '--'  /
+ `-------' `-------'         `-----'     `-----' `------'
+============================================================
+           Startup USB Disk Creation Utility v1.0
+                     By: Ronny Burgos
+------------------------------------------------------------
+  This is a tool, primarily for creating live USBs and ISO
+ images. It also provides tools for viewing drives mounted
+                   and formatting drives.
+------------------------------------------------------------
+DISCLAIMER: This tool, if used wrong, can render your system
+  unusable. Please use extreme caution when selecting what
+      drives or files you will be modifying/creating.
+ I AM NOT RESPONSIBLE FOR ANY DAMAGES TO SYSTEMS AS A RESULT
+                     OF USING THIS TOOL.
+============================================================
